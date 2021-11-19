@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF24D5382748303900FE647E /* Teste.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF24D5372748303900FE647E /* Teste.swift */; };
 		AF8EE516274708FF003DDB50 /* MainTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8EE515274708FF003DDB50 /* MainTabViewController.swift */; };
 		AF8EE51827470B3F003DDB50 /* FeedController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8EE51727470B3F003DDB50 /* FeedController.swift */; };
 		AF8EE51A27470B5C003DDB50 /* SearchController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8EE51927470B5C003DDB50 /* SearchController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AF24D5372748303900FE647E /* Teste.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teste.swift; sourceTree = "<group>"; };
 		AF8EE515274708FF003DDB50 /* MainTabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabViewController.swift; sourceTree = "<group>"; };
 		AF8EE51727470B3F003DDB50 /* FeedController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedController.swift; sourceTree = "<group>"; };
 		AF8EE51927470B5C003DDB50 /* SearchController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchController.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 		AF8EE51227470831003DDB50 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				AF24D5372748303900FE647E /* Teste.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				AF8EE51A27470B5C003DDB50 /* SearchController.swift in Sources */,
 				AF8EE516274708FF003DDB50 /* MainTabViewController.swift in Sources */,
 				AF8EE52027470BA5003DDB50 /* ProfileController.swift in Sources */,
+				AF24D5382748303900FE647E /* Teste.swift in Sources */,
 				AF8EE51827470B3F003DDB50 /* FeedController.swift in Sources */,
 				AFF47624272040BD002A8D3E /* AppDelegate.swift in Sources */,
 				AFF47626272040BD002A8D3E /* SceneDelegate.swift in Sources */,
